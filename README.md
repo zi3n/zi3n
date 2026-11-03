@@ -1,25 +1,61 @@
 <h1 align="center">Hi 👋, I'm ZI3N</h1>
-<h3 align="center">A Penetration Tester living in Vietnam.</h3>
+<h3 align="center">Cyber Security Engineer · Penetration Tester · Vietnam 🇻🇳</h3>
 
-- 🔭 I’m currently working as Cyber Security Engineer
-
-- 🌱 I’m currently learning **Code, Hack and Style of life**
-
-- 💬 Ask me about **Everything**
-
-- 📫 How to reach me **ndanhdien98@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/6469656e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zi3n9x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zi3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zi3n" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge" alt="Offensive Security" />
+  <img src="https://img.shields.io/badge/Web%20%26%20API-Pentest-blue?style=for-the-badge" alt="Web & API Pentest" />
+  <img src="https://img.shields.io/badge/AI--Assisted-Security-8A2BE2?style=for-the-badge" alt="AI-Assisted Security" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zi3n&show_icons=true&locale=en&layout=compact" alt="zi3n" /></p>
+### 👨‍💻 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zi3n&show_icons=true&locale=en" alt="zi3n" /></p>
+- 🔭 Working as a **Cyber Security Engineer**, focused on web, API and application penetration testing
+- 🤖 Exploring **AI-assisted pentesting** — using LLMs and agents to speed up recon, analysis and reporting, while keeping a human in the loop
+- 🌱 Currently learning: **modern web/API attack surface, automation, and secure-by-design practices**
+- 🛠️ Building small tools and scripts to automate repetitive security work
+- 💬 Ask me about: **pentesting, bug hunting, security automation, Linux**
+- 📫 Reach me: **ndanhdien98@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zi3n&" alt="zi3n" /></p>
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://x.com/6469656e" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/zi3n" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ndanhdien98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,burpsuite,linux,bash,python,js,php,docker,git,postgres&perline=10" alt="skills" />
+</p>
+
+<details>
+<summary>Also worked with</summary>
+
+<img src="https://skillicons.dev/icons?i=django,flask,react,html,css&perline=10" alt="other skills" />
+
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zi3n&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zi3n&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zi3n&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center"><i>"Break it to make it better." — hack responsibly. 🔐</i></p>

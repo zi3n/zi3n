@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZI3N</h1>
 <h3 align="center">A Penetration Tester living in Vietnam.</h3>
 
-[![zi3n](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working as Cyber Security Engineer
 
 - 🌱 I’m currently learning **Code, Hack and Style of life**
